@@ -1,0 +1,17 @@
+[
+    {
+        "id"            : 1,
+        "name"          : "notif_1",
+        "description"   : "Hi there, it's a notif_1"
+    },
+    {
+        "id"            : 2,
+        "name"          : "notif_2",
+        "description"   : "Hi there, it's a notif_2"
+    },
+    {
+        "id"            : 3,
+        "name"          : "notif_3",
+        "description"   : "Hi there, it's a notif_3"
+    }
+]

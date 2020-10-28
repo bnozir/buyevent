@@ -1,0 +1,7 @@
+{
+    "customersDataFilePath" : "./data/customers.json",
+	"notificationsTypeDataFilePath" : "./data/notificationsType.json",
+	"notificationsDataFilePath" : "./data/notifications.json",
+	"infoLogFilePath" : "./logs/info.txt",
+	"errorLogFilePath" : "./logs/errors.txt"
+}

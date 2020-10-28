@@ -1,0 +1,32 @@
+[
+    {
+        "id"            : 1,
+        "phoneNumber"   : "900000001",
+        "email"         : "email.1@gmail.com"
+    },
+    {
+        "id"            : 2,
+        "phoneNumber"   : "900000002",
+        "email"         : "email.2@gmail.com"
+    },
+    {
+        "id"            : 3,
+        "phoneNumber"   : "900000003",
+        "email"         : "email.3@gmail.com"
+    },
+    {
+        "id"            : 4,
+        "phoneNumber"   : "900000004",
+        "email"         : "email.4@gmail.com"
+    },
+    {
+        "id"            : 5,
+        "phoneNumber"   : "900000005",
+        "email"         : "email.5@gmail.com"
+    },
+    {
+        "id"            : 6,
+        "phoneNumber"   : "900000006",
+        "email"         : "email.6@gmail.com"
+    }
+]

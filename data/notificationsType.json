@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "sms",
+        "description"   : "send sms to customer"
+    },
+    {
+        "name"          : "email",
+        "description"   : "send email to customer"
+    }
+]
